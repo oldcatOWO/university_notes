@@ -1,0 +1,6 @@
+# Compiled class file
+*.class
+
+#inputs outputs
+*.in
+*.out

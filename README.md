@@ -1,1 +1,1 @@
-# university_notes
+# University notes
